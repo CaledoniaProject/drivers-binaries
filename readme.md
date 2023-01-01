@@ -20,6 +20,8 @@ Included
   * https://hitcon.org/2022/slides/Hack%20The%20Real%20Box_an%20analysis%20of%20multiple%20campaigns%20by%20APT41's%20subgroup%20Earth%20Longzhi.pdf
     * AVBurner: 4b1b1a1293ccd2c0fd51075de9376ebb55ab64972da785153fcb0a4eb523a5eb
     * ProcBurner: 30b64628aae642380147c7671ea8f864b13c2d2affaaea34c4c9512c8a779225
+* cpuz-1.0.4.1.sys
+  * https://www.trendmicro.com/en_us/research/21/d/iron-tiger-apt-updates-toolkit-with-evolved-sysupdate-malware-va.html
 
 Unverified
 
