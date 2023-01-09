@@ -25,6 +25,9 @@ Included
 * kprocesshacker
   * https://www.crowdstrike.com/blog/how-doppelpaymer-hunts-and-kills-windows-processes/
   * https://github.com/winsiderss/systeminformer/releases
+* sandra.sys
+  * https://securelist.com/unraveling-the-lamberts-toolkit/77990/
+  * https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2010-1592
 
 Unverified
 
