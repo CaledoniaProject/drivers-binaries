@@ -22,6 +22,9 @@ Included
     * ProcBurner: 30b64628aae642380147c7671ea8f864b13c2d2affaaea34c4c9512c8a779225
 * cpuz-1.0.4.1.sys
   * https://www.trendmicro.com/en_us/research/21/d/iron-tiger-apt-updates-toolkit-with-evolved-sysupdate-malware-va.html
+* kprocesshacker
+  * https://www.crowdstrike.com/blog/how-doppelpaymer-hunts-and-kills-windows-processes/
+  * https://github.com/winsiderss/systeminformer/releases
 
 Unverified
 
