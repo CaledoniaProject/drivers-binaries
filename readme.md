@@ -12,6 +12,7 @@ Included
 * [MSIO64.sys: Kernel exploitation: weaponizing CVE-2020-17382 MSI Ambient Link driver](https://www.matteomalvica.com/blog/2020/09/24/weaponizing-cve-2020-17382/)
 * [Exploiting System Mechanic Driver - from zero knowledge about driver exploitation to SYSTEM](https://voidsec.com/exploiting-system-mechanic-driver/)
 * [dbutil_2_3.sys: CVE-2021-21551- Hundreds Of Millions Of Dell Computers At Risk Due to Multiple BIOS Driver Privilege Escalation Flaws](https://labs.sentinelone.com/cve-2021-21551-hundreds-of-millions-of-dell-computers-at-risk-due-to-multiple-bios-driver-privilege-escalation-flaws/)
+  * https://github.com/nanabingies/CVE-2021-21551
   * https://github.com/rapid7/metasploit-framework/pull/15190/files
 * HW.sys
   * https://decoded.avast.io/janvojtesek/the-return-of-candiru-zero-days-in-the-middle-east/
