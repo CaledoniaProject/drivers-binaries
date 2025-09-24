@@ -36,6 +36,7 @@ Included
 
 Unverified
 
+* [CyberSecurityUP/ProcessKiller-BYOVD - BYOVD Technique Example using viragt64 driver](https://github.com/CyberSecurityUP/ProcessKiller-BYOVD)
 * [0vercl0k/CVE-2021-32537 - PoC for CVE-2021-32537: an out-of-bounds memory access that leads to pool corruption in the Windows kernel](https://github.com/0vercl0k/CVE-2021-32537)
 * [stong/CVE-2020-15368 - How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys](https://github.com/stong/CVE-2020-15368)
 * [kkent030315/MsIoExploit - Exploit MsIo vulnerable driver](https://github.com/kkent030315/MsIoExploit)
